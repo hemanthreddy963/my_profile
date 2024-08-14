@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="HEMANTH REDDY CHINTHAMREDDY" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .profile-container {
+            width: 300px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-container img {
+            width: 100%;
+            border-radius: 50%;
+        }
+        .profile-container h1 {
+            text-align: center;
+            margin: 20px 0 10px;
+        }
+        .profile-container p {
+            text-align: center;
+            margin: 10px 0;
+            color: #666;
+        }
+        .profile-container .bio {
+            font-size: 14px;
+            line-height: 1.5;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profile-container">
+        <img src="C:\Users\pc\Desktop\PIC .jpg" alt="Profile Picture">
+        <h1>John Doe</h1>
+        <p>Data Analyst</p>
+        <p class="bio">I'm a data analyst with a passion for turning data into actionable insights. I love working with Python and SQL, and in my free time, I enjoy gaming and organizing events.</p>
+    </div>
+
+</body>
+</html>
